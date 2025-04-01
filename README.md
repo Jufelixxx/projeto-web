@@ -9,12 +9,4 @@ Este é um projeto de automação web utilizando **CodeCeptJS** e **JavaScript**
 - **Node.js**: Ambiente de execução para JavaScript no servidor.
 - **NPM**: Gerenciador de pacotes para instalar dependências.
 
-## 🚀 Instalação
-
-### 1. Clone o repositório
-
-Primeiramente, clone este repositório em sua máquina local:
-
-```bash
-git clone https://github.com/seu-usuario/projeto-automacao-web.git
 
